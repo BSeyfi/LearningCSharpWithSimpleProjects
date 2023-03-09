@@ -1,0 +1,30 @@
+C:\My Works\Programming\delegates-bakery\delegates-bakery\bin\Debug\net7.0\delegates-bakery.exe
+C:\My Works\Programming\delegates-bakery\delegates-bakery\bin\Debug\net7.0\delegates-bakery.deps.json
+C:\My Works\Programming\delegates-bakery\delegates-bakery\bin\Debug\net7.0\delegates-bakery.runtimeconfig.json
+C:\My Works\Programming\delegates-bakery\delegates-bakery\bin\Debug\net7.0\delegates-bakery.dll
+C:\My Works\Programming\delegates-bakery\delegates-bakery\bin\Debug\net7.0\delegates-bakery.pdb
+C:\My Works\Programming\delegates-bakery\delegates-bakery\obj\Debug\net7.0\delegates-bakery.csproj.AssemblyReference.cache
+C:\My Works\Programming\delegates-bakery\delegates-bakery\obj\Debug\net7.0\delegates-bakery.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Works\Programming\delegates-bakery\delegates-bakery\obj\Debug\net7.0\delegates-bakery.AssemblyInfoInputs.cache
+C:\My Works\Programming\delegates-bakery\delegates-bakery\obj\Debug\net7.0\delegates-bakery.AssemblyInfo.cs
+C:\My Works\Programming\delegates-bakery\delegates-bakery\obj\Debug\net7.0\delegates-bakery.csproj.CoreCompileInputs.cache
+C:\My Works\Programming\delegates-bakery\delegates-bakery\obj\Debug\net7.0\delegates-bakery.dll
+C:\My Works\Programming\delegates-bakery\delegates-bakery\obj\Debug\net7.0\refint\delegates-bakery.dll
+C:\My Works\Programming\delegates-bakery\delegates-bakery\obj\Debug\net7.0\delegates-bakery.pdb
+C:\My Works\Programming\delegates-bakery\delegates-bakery\obj\Debug\net7.0\delegates-bakery.genruntimeconfig.cache
+C:\My Works\Programming\delegates-bakery\delegates-bakery\obj\Debug\net7.0\ref\delegates-bakery.dll
+C:\My Works\GitHub Repos\LearningCSharpWithSimpleProjects\delegates-bakery\delegates-bakery\bin\Debug\net7.0\delegates-bakery.exe
+C:\My Works\GitHub Repos\LearningCSharpWithSimpleProjects\delegates-bakery\delegates-bakery\bin\Debug\net7.0\delegates-bakery.deps.json
+C:\My Works\GitHub Repos\LearningCSharpWithSimpleProjects\delegates-bakery\delegates-bakery\bin\Debug\net7.0\delegates-bakery.runtimeconfig.json
+C:\My Works\GitHub Repos\LearningCSharpWithSimpleProjects\delegates-bakery\delegates-bakery\bin\Debug\net7.0\delegates-bakery.dll
+C:\My Works\GitHub Repos\LearningCSharpWithSimpleProjects\delegates-bakery\delegates-bakery\bin\Debug\net7.0\delegates-bakery.pdb
+C:\My Works\GitHub Repos\LearningCSharpWithSimpleProjects\delegates-bakery\delegates-bakery\obj\Debug\net7.0\delegates-bakery.csproj.AssemblyReference.cache
+C:\My Works\GitHub Repos\LearningCSharpWithSimpleProjects\delegates-bakery\delegates-bakery\obj\Debug\net7.0\delegates-bakery.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Works\GitHub Repos\LearningCSharpWithSimpleProjects\delegates-bakery\delegates-bakery\obj\Debug\net7.0\delegates-bakery.AssemblyInfoInputs.cache
+C:\My Works\GitHub Repos\LearningCSharpWithSimpleProjects\delegates-bakery\delegates-bakery\obj\Debug\net7.0\delegates-bakery.AssemblyInfo.cs
+C:\My Works\GitHub Repos\LearningCSharpWithSimpleProjects\delegates-bakery\delegates-bakery\obj\Debug\net7.0\delegates-bakery.csproj.CoreCompileInputs.cache
+C:\My Works\GitHub Repos\LearningCSharpWithSimpleProjects\delegates-bakery\delegates-bakery\obj\Debug\net7.0\delegates-bakery.dll
+C:\My Works\GitHub Repos\LearningCSharpWithSimpleProjects\delegates-bakery\delegates-bakery\obj\Debug\net7.0\refint\delegates-bakery.dll
+C:\My Works\GitHub Repos\LearningCSharpWithSimpleProjects\delegates-bakery\delegates-bakery\obj\Debug\net7.0\delegates-bakery.pdb
+C:\My Works\GitHub Repos\LearningCSharpWithSimpleProjects\delegates-bakery\delegates-bakery\obj\Debug\net7.0\delegates-bakery.genruntimeconfig.cache
+C:\My Works\GitHub Repos\LearningCSharpWithSimpleProjects\delegates-bakery\delegates-bakery\obj\Debug\net7.0\ref\delegates-bakery.dll
